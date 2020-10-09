@@ -4,8 +4,7 @@ menu:
   Archives: archives  # 归档
   Categories: categories  # 分类
   Tags: tags  # 标签
-  Repository: repository  # github repositories
-  Books: books  # 豆瓣书单
+  Projects: projects  # github repositories
   About: about  # 关于
 
 # Enable/Disable menu icons
@@ -186,7 +185,7 @@ profile:
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
   author: Solarex
   author_title: Android Engineer
-  author_description: ;)
+  author_description: ;-)
   location: Shenzhen, China
   follow: https://github.com/flyfire
   # Social Links
