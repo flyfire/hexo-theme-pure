@@ -2,8 +2,6 @@
 menu:
   Home: .
   Archives: archives  # 归档
-  Categories: categories  # 分类
-  Tags: tags  # 标签
   Repository: projects  # github repositories
   Books: books  # 豆瓣书单
   Links: links  # 友链
